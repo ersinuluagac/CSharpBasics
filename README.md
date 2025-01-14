@@ -1,2 +1,2 @@
-# BilgeAdamAkademi
-BilgeAdam Akademi eğitimi sürecinde yaptığım ödevler ve çalışmalar. 
+# BilgeAdam Akademi
+- Eğitimin sadece C# kısmını kapsamaktadır.
